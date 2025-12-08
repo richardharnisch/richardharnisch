@@ -1,4 +1,10 @@
-## Hi there 👋
+Hello! I'm a final-year Bachelor's student at the University of Groningen learning [Artificial Intelligence](https://www.rug.nl/bachelors/artificial-intelligence/?lang=en) and specifically Machine Learning and Data Science.
+
+Here on my Github I keep course notes and coursework (where it's possible to publish vis-a-vis plagiarism), personal passion projects, and quick and dirty scripts I think might be useful to others. Currently I'm working on a time-series power price prediction algorithm for the Dutch national energy provider [Gasunie](gasunie.nl) and my Bachelor's thesis on the existence of [Double Descent](https://en.wikipedia.org/wiki/Double_descent) in Reinforcement Learning, both of which you'll see here when they're done. Additionally, I'm currently employed as a zero-hour position at the German startup [descript.de](descript.de), working on textile spraying defect detection in collaboration with TU Dresden.
+
+In my free time I enjoy doing programming puzzles with fun stories---check out my Advent of Code solutions [here](https://github.com/richardharnisch/advent-of-code).
+
+You can reach me at `richitdd` on the standard google email domain (hint: it's gmail dot com). I use he/him pronouns.
 
 <!--
 **richardharnisch/richardharnisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
