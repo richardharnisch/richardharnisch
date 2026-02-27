@@ -12,6 +12,7 @@ Other than that, you'll find here:
 I love programming puzzles with a good narrative, like Advent of Code. You can find my solutions (in Python) [here](https://github.com/richardharnisch/advent-of-code) (with my solution management script).
 
 Email: `richitdd` @ the standard google mail domain (hint: it's gmail)
+
 Linkedin: [richardhar](https://www.linkedin.com/in/richardhar/)
 
 Always interested in opportunities and anything you think I might find cool!
