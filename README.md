@@ -9,7 +9,7 @@ You’ll find these projects here once they’re ready for the world.
 
 ### What lives on this GitHub
 This profile is a mix of:
-- Course notes & coursework (shared where plagiarism rules allow), both group and individual
+- Course notes & coursework (shared where plagiarism rules allow), both group and individual. Unfortunately, most of these are private because they contain my submissions.
 - Personal passion projects
 - Quick-and-dirty scripts that took me 10x longer to make than just manually doing the task 🙃
 
