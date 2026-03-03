@@ -2,6 +2,7 @@ I’m a final-year Bachelor’s student at the University of Groningen studying 
 
 Other than that, I've built:
 - [Time-series electricity price prediction](https://github.com/kodeInInk/PriceForecasting-GasuniexRUG) for the Dutch state energy provider [Gasunie](gasunie.nl)
+- [Clark Bott](https://github.com/Clark-Bott): My Openclaw Agent
 - [NN from Scratch](https://github.com/richardharnisch/traffic-sign-classification): A CNN implementation from scratch (imports numpy), tested on [GTSRB](https://benchmark.ini.rub.de/gtsrb_about.html)
 - [Advent of Code Solutions](https://github.com/richardharnisch/advent-of-code) 2023--present, including my solution management script
 - [PDF Prompt Injector](https://github.com/richardharnisch/pdf-prompt-injector): Adds invisible (size 0) text to PDFs that LLMs can be influenced by, [deployed on Streamlit](https://pdf-prompt-injector.streamlit.app/). Useful for resumes 🙃
