@@ -1,12 +1,9 @@
-I’m a final-year Bachelor’s student at the University of Groningen studying Artificial Intelligence, with a focus on Machine Learning & Data Science. Here I'm also a Teaching Assistant for [Introduction to Machine Learning](https://ocasys.rug.nl/current/catalog/course/WBAI056-05). Here's my [CV](https://files.catbox.moe/np3q6b.pdf) as of 2025-12. Currently working on:
-
-- [Time-series electricity price prediction](https://github.com/kodeInInk/PriceForecasting-GasuniexRUG) for the Dutch energy provider [Gasunie](gasunie.nl)
-- [Bachelor’s thesis](https://github.com/richardharnisch/rl_double_descent/blob/master/tex/thesis/thesis.pdf) on the existence of Double Descent in Reinforcement Learning
-- Computer vision for textile defect detection at the German startup [descript.de](descript.de), in collaboration with TU Dresden. Code property of descript
+I’m a final-year Bachelor’s student at the University of Groningen studying Artificial Intelligence, with a focus on Machine Learning & Data Science. Here I'm also a Teaching Assistant for [Introduction to Machine Learning](https://ocasys.rug.nl/current/catalog/course/WBAI056-05). I wrote my [Bachelor’s thesis](https://github.com/richardharnisch/rl_double_descent/blob/master/tex/thesis/thesis.pdf) on the existence of Double Descent in Reinforcement Learning and am eployed at the German startup [descript.de](descript.de), where I'm working on computer vision for textile defect detection in collaboration with TU Dresden.
 
 Other than that, I've built:
+- [Time-series electricity price prediction](https://github.com/kodeInInk/PriceForecasting-GasuniexRUG) for the Dutch state energy provider [Gasunie](gasunie.nl)
 - [NN from Scratch](https://github.com/richardharnisch/traffic-sign-classification): A CNN implementation from scratch (imports numpy), tested on [GTSRB](https://benchmark.ini.rub.de/gtsrb_about.html)
-- [Advent of Code Solutions](https://github.com/richardharnisch/advent-of-code) 2023--present, with my solution management script
+- [Advent of Code Solutions](https://github.com/richardharnisch/advent-of-code) 2023--present, including my solution management script
 - [PDF Prompt Injector](https://github.com/richardharnisch/pdf-prompt-injector): Adds invisible (size 0) text to PDFs that LLMs can be influenced by, [deployed on Streamlit](https://pdf-prompt-injector.streamlit.app/). Useful for resumes 🙃
 - [Picmash](https://github.com/richardharnisch/picmash): a Django-based Elo rating system for photo contest ranking
 - [CoverRoomBets](https://github.com/richardharnisch/coverroombets): A python utility to periodically rebalance a market-cap weighted index portfolio made for [Cover](https://svcover.nl)'s trading competition. Won 1st place!
@@ -19,8 +16,8 @@ Other than that, I've built:
 
 Email: `richitdd` @ the standard google mail domain (hint: it's gmail)
 
-Linkedin: [richardhar](https://www.linkedin.com/in/richardhar/)
+[LinkedIn](https://www.linkedin.com/in/richardhar/), [CV as of 2025-12](https://files.catbox.moe/np3q6b.pdf)
 
-Always interested in opportunities and anything you think I might find cool!
+Always interested in opportunities and anything cool or neat!
 
 Thanks for stopping by 🤠
