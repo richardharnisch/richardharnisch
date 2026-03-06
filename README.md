@@ -15,7 +15,7 @@ Other than that, I've built:
 - Lots of course-specific repos that are public where plagiarism rules allow
 
 I also enjoy programming puzzles:
-- [Advent of Code Solutions](https://github.com/richardharnisch/advent-of-code) 2023--present, including my solution management script
+- [Advent of Code Solutions](https://github.com/richardharnisch/advent-of-code) 2023--present, including my solution management script. 2nd in 2026 on University leaderboard.
 - [Cover Crash & Compile](https://github.com/richardharnisch/crash-and-compile/tree/main) solutions for Cover's [event](https://svcover.nl/events/5097), won 3rd place; 2nd in coding.
 
 Email: `richitdd` @ the standard google mail domain (hint: it's gmail)
