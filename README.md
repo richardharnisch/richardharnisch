@@ -20,7 +20,7 @@ I also enjoy programming puzzles:
 
 Email: `richitdd` @ the standard google mail domain (hint: it's gmail)
 
-[LinkedIn](https://www.linkedin.com/in/richardhar/), [CV as of 2026-05](https://github.com/richardharnisch/public-cv/blob/master/public.pdf)
+[LinkedIn](https://www.linkedin.com/in/richardharnisch/), [CV as of 2026-05](https://github.com/richardharnisch/public-cv/blob/master/public.pdf)
 
 Always interested in opportunities and anything cool or neat!
 
