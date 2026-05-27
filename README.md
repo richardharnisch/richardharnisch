@@ -4,6 +4,7 @@ Other than that, I've built:
 - [Time-series electricity price prediction](https://github.com/kodeInInk/PriceForecasting-GasuniexRUG) for the Dutch state energy provider [Gasunie](gasunie.nl)
 - [Clark Bott](https://github.com/Clark-Bott): My Openclaw Agent
 - [NN from Scratch](https://github.com/richardharnisch/traffic-sign-classification): A CNN implementation from scratch (imports numpy), tested on [GTSRB](https://benchmark.ini.rub.de/gtsrb_about.html)
+- [TeX Workshop](https://github.com/richardharnisch/tex-workshop-chemistry) I gave to [chemistry students](https://www.chemische-binding.nl/events/134063-latex-workshop) about to start using it for their Bachelor's thesis
 - [PDF Prompt Injector](https://github.com/richardharnisch/pdf-prompt-injector): Adds invisible (size 0) text to PDFs that LLMs can be influenced by, [deployed on Streamlit](https://pdf-prompt-injector.streamlit.app/). Useful for resumes 🙃
 - [Picmash](https://github.com/richardharnisch/picmash): a Django-based Elo rating system for photo contest ranking
 - [CoverRoomBets](https://github.com/richardharnisch/coverroombets): A python utility to periodically rebalance a market-cap weighted index portfolio made for [Cover](https://svcover.nl)'s trading competition. Won 1st place!
