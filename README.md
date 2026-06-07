@@ -1,6 +1,7 @@
 I’m a final-year Bachelor’s student at the University of Groningen studying Artificial Intelligence, with a focus on Machine Learning & Data Science. Here I'm also a Teaching Assistant for [Introduction to Machine Learning](https://ocasys.rug.nl/current/catalog/course/WBAI056-05). I wrote my [Bachelor’s thesis](https://github.com/richardharnisch/rl_double_descent/blob/master/tex/thesis/thesis.pdf) on the existence of Double Descent in Reinforcement Learning and am employed at the German startup [descript.de](descript.de), where I'm working on computer vision for textile defect detection in collaboration with TU Dresden.
 
 Other than that, I've built:
+- [Decker: Agentc Slide Decks](https://github.com/richardharnisch/maverx-style-buddy): First place 🥇 at the Digilize AI Hackathon 2026. An agentic workflow which ingests corporate branding from existing slide decks, then makes corporate trainings in the same style. Output is a fully editable pptx, with pre-/post-bites and optional handouts.
 - [Time-series electricity price prediction](https://github.com/kodeInInk/PriceForecasting-GasuniexRUG) for the Dutch state energy provider [Gasunie](gasunie.nl)
 - [Clark Bott](https://github.com/Clark-Bott): My Openclaw Agent
 - [NN from Scratch](https://github.com/richardharnisch/traffic-sign-classification): A CNN implementation from scratch (imports numpy), tested on [GTSRB](https://benchmark.ini.rub.de/gtsrb_about.html)
