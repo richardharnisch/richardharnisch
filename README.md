@@ -3,7 +3,7 @@ I’m a final-year Bachelor’s student at the University of Groningen studying 
 Other than that, I've built:
 - [Decker: Agentc Slide Decks](https://github.com/richardharnisch/maverx-style-buddy): First place 🥇 at the Digilize AI Hackathon 2026. An agentic workflow which ingests corporate branding from existing slide decks, then makes corporate trainings in the same style. Output is a fully editable pptx, with pre-/post-bites and optional handouts.
 - [Time-series electricity price prediction](https://github.com/kodeInInk/PriceForecasting-GasuniexRUG) for the Dutch state energy provider [Gasunie](gasunie.nl)
-- [Clark Bott](https://github.com/Clark-Bott): My Openclaw Agent
+- [Clark Bott](https://github.com/Clark-Bott): My Hermes Agent. Manages my day-to-day task board, coordinates my schedule. Also runs some regular briefing/research jobs.
 - [NN from Scratch](https://github.com/richardharnisch/traffic-sign-classification): A CNN implementation from scratch (imports numpy), tested on [GTSRB](https://benchmark.ini.rub.de/gtsrb_about.html)
 - [TeX Workshop](https://github.com/richardharnisch/tex-workshop-chemistry) I gave to [chemistry students](https://www.chemische-binding.nl/events/134063-latex-workshop) about to start using it for their Bachelor's thesis
 - [PDF Prompt Injector](https://github.com/richardharnisch/pdf-prompt-injector): Adds invisible (size 0) text to PDFs that LLMs can be influenced by, [deployed on Streamlit](https://pdf-prompt-injector.streamlit.app/). Useful for resumes 🙃
