@@ -1,29 +1,39 @@
-I’m a final-year Bachelor’s student at the University of Groningen studying Artificial Intelligence, with a focus on Machine Learning & Data Science. Here I'm also a Teaching Assistant for [Introduction to Machine Learning](https://ocasys.rug.nl/current/catalog/course/WBAI056-05). I wrote my [Bachelor’s thesis](https://github.com/richardharnisch/rl_double_descent/blob/master/tex/thesis/thesis.pdf) on the existence of Double Descent in Reinforcement Learning and am employed at the German startup [descript.de](descript.de), where I'm working on computer vision for textile defect detection in collaboration with TU Dresden.
+# Hi, I'm Richard 👋
 
-Other than that, I've built:
-- [Decker: Agentc Slide Decks](https://github.com/richardharnisch/maverx-style-buddy): First place 🥇 at the Digilize AI Hackathon 2026. An agentic workflow which ingests corporate branding from existing slide decks, then makes corporate trainings in the same style. Output is a fully editable pptx, with pre-/post-bites and optional handouts.
-- [Time-series electricity price prediction](https://github.com/kodeInInk/PriceForecasting-GasuniexRUG) for the Dutch state energy provider [Gasunie](gasunie.nl)
-- [Clark Bott](https://github.com/Clark-Bott): My Hermes Agent. Manages my day-to-day task board, coordinates my schedule. Also runs some regular briefing/research jobs.
-- [NN from Scratch](https://github.com/richardharnisch/traffic-sign-classification): A CNN implementation from scratch (imports numpy), tested on [GTSRB](https://benchmark.ini.rub.de/gtsrb_about.html)
-- [TeX Workshop](https://github.com/richardharnisch/tex-workshop-chemistry) I gave to [chemistry students](https://www.chemische-binding.nl/events/134063-latex-workshop) about to start using it for their Bachelor's thesis
-- [PDF Prompt Injector](https://github.com/richardharnisch/pdf-prompt-injector): Adds invisible (size 0) text to PDFs that LLMs can be influenced by, [deployed on Streamlit](https://pdf-prompt-injector.streamlit.app/). Useful for resumes 🙃
-- [Picmash](https://github.com/richardharnisch/picmash): a Django-based Elo rating system for photo contest ranking
-- [CoverRoomBets](https://github.com/richardharnisch/coverroombets): A python utility to periodically rebalance a market-cap weighted index portfolio made for [Cover](https://svcover.nl)'s trading competition. Won 1st place!
-- [Mapart Carbon Dating](https://github.com/richardharnisch/mapart_dating): A utility to estimate when a specific mapart was made on [Dominion](https://dominionserver.net/)
-- [Fibonacci Optimization](https://github.com/richardharnisch/fibonacci-optimization): Some just-for-fun attempts to calculate the highest Fibonacci number in 0.1s on my machine
-- [Numista API Interface](https://github.com/richardharnisch/numista-api): Built for my dad to estimate the total value of a numismatic collection
-- [Dominion Staff Timeline](https://github.com/richardharnisch/dominion_staff_timeline): Staff team size and composition timeline visualization, see [Colab deployment](https://colab.research.google.com/drive/1FAIizU3TjOQcD3o7dU5HbfoRYBzMqifs)
-- [Whitelist Data Analysis](https://github.com/richardharnisch/dominionWhitelistData): Analysis of ticket workload distribution among Dominion staff team, [writeup](https://rentry.org/DominionWhitelistData2)
-- Lots of course-specific repos that are public where plagiarism rules allow
+I'm an AI builder based in the Netherlands. In September 2026, I'll start the MSc Artificial Intelligence and a research assistant position at the University of Amsterdam, where I'll work with Dr. Shashikant Ilager on energy-efficient AI data-center design. I recently completed my BSc Artificial Intelligence at the University of Groningen cum laude (8.4/10).
 
-I also enjoy programming puzzles:
-- [Advent of Code Solutions](https://github.com/richardharnisch/advent-of-code) 2023--present, including my solution management script. 2nd in 2026 on University leaderboard.
-- [Cover Crash & Compile](https://github.com/richardharnisch/crash-and-compile/tree/main) solutions for Cover's [event](https://svcover.nl/events/5097), won 3rd place; 2nd in coding.
+I'm especially interested in agent harnesses, personal and business assistants, and reliable LLM systems. I also have industry ML experience from projects with [Gasunie](https://www.gasunie.nl/) and [descript](https://descript.de/).
 
-Email: `richitdd` @ the standard google mail domain (hint: it's gmail)
+## Selected work
 
-[LinkedIn](https://www.linkedin.com/in/richardharnisch/), [CV as of 2026-05](https://github.com/richardharnisch/public-cv/blob/master/public.pdf)
+### 🥇 [Maverx Style Buddy](https://github.com/richardharnisch/maverx-style-buddy): agentic slide generation
 
-Always interested in opportunities and anything cool or neat!
+First place at the Digilize AI Hackathon 2026. The system learns a visual style from existing presentations, then generates new, fully editable PowerPoint decks and supporting materials. My work covered the prompts, agent architecture, product framing, demo, and pitch.
 
-Thanks for stopping by 🤠
+### [Double Descent in Reinforcement Learning](https://github.com/richardharnisch/rl_double_descent): research
+
+My [bachelor's thesis](https://github.com/richardharnisch/rl_double_descent/blob/master/tex/thesis/thesis.pdf) tested for double descent in DQN and TRPO and, unfortunately, reported a negative result. I am currently extending this work as I haven't given up on DD existing in RL yet.
+
+### [Day-ahead electricity price forecasting](https://github.com/kodeInInk/PriceForecasting-GasuniexRUG) — Gasunie
+
+Worked in a five-person team on forecasting Dutch electricity prices for Gasunie, with a focus on evaluation, retraining, and distribution shift rather than only in-sample model performance.
+
+<details>
+<summary><strong>More things I've built</strong></summary>
+
+- [Clark Bott](https://github.com/Clark-Bott): my personal Hermes agent for managing tasks, coordinating my schedule, and running recurring briefing and research jobs.
+- [Neural network from scratch](https://github.com/richardharnisch/traffic-sign-classification): a CNN implemented with NumPy and tested on [GTSRB](https://benchmark.ini.rub.de/gtsrb_about.html).
+- [PDF Prompt Injector](https://github.com/richardharnisch/pdf-prompt-injector): a small demonstration of invisible-text prompt injection in PDF documents.
+- [Picmash](https://github.com/richardharnisch/picmash): a Django-based Elo rating system for ranking photo-contest entries.
+- [CoverRoomBets](https://github.com/richardharnisch/coverroombets): a portfolio rebalancing utility that won [Cover](https://svcover.nl/)'s trading competition.
+- [Numista API interface](https://github.com/richardharnisch/numista-api): a tool I built for my dad to estimate the value of a numismatic collection.
+- [TeX workshop](https://github.com/richardharnisch/tex-workshop-chemistry): materials for a workshop I gave to chemistry students preparing to write their bachelor's theses.
+- Programming puzzles: [Advent of Code](https://github.com/richardharnisch/advent-of-code) and [Crash & Compile](https://github.com/richardharnisch/crash-and-compile), where I placed third overall and second in coding at Cover's event.
+
+</details>
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/richardharnisch/) · [CV](https://github.com/richardharnisch/public-cv/blob/master/public.pdf) · `richitdd` at Gmail
+
+I'm always excited to hear from ambitious people and about hard technical problems and opportunities to do good.
