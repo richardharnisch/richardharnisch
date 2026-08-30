@@ -36,4 +36,4 @@ Worked in a five-person team on forecasting Dutch electricity prices for Gasunie
 
 [LinkedIn](https://www.linkedin.com/in/richardharnisch/) · [CV](https://github.com/richardharnisch/public-cv/blob/master/public.pdf) · `ric.harnisch` at Gmail
 
-I'm always excited to hear from ambitious people and about hard technical problems and opportunities to do good.
+I'm always excited to hear from cool people about hard problems!
