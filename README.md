@@ -10,11 +10,11 @@ I'm especially interested in optimization, reinforcement learning, agents, and r
 
 First place at the Digilize AI Hackathon 2026. The system learns a visual style from existing presentations, then generates new, fully editable PowerPoint decks and supporting materials. My work covered the prompts, agent architecture, product framing, demo, and pitch.
 
-### [Double Descent in Reinforcement Learning](https://github.com/richardharnisch/rl_double_descent): research
+### [Double Descent in Reinforcement Learning](https://github.com/richardharnisch/rl_double_descent): Bachelor's thesis research
 
 My [bachelor's thesis](https://github.com/richardharnisch/rl_double_descent/blob/master/tex/thesis/thesis.pdf) tested for double descent in DQN and TRPO and, unfortunately, reported a negative result. I am currently extending this work as I haven't given up on DD existing in RL yet.
 
-### [Day-ahead electricity price forecasting](https://github.com/kodeInInk/PriceForecasting-GasuniexRUG) — Gasunie
+### [Day-ahead electricity price forecasting](https://github.com/kodeInInk/PriceForecasting-GasuniexRUG): Gasunie Internship
 
 Worked in a five-person team on forecasting Dutch electricity prices for Gasunie, with a focus on evaluation, retraining, and distribution shift rather than only in-sample model performance.
 
