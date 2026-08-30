@@ -1,8 +1,8 @@
 # Hi, I'm Richard 👋
 
-I'm an AI builder based in the Netherlands. In September 2026, I'll start the MSc Artificial Intelligence and a research assistant position at the University of Amsterdam, where I'll work with Dr. Shashikant Ilager on energy-efficient AI data-center design. I recently completed my BSc Artificial Intelligence at the University of Groningen cum laude (8.4/10).
+I'm an AI researcher and builder based in Amsterdam. In September 2026, I'll start the MSc Artificial Intelligence and a research assistant position at the University of Amsterdam, where I'll work with Dr. Shashikant Ilager on energy-efficient AI data-center design in the Multiscale Networked Systems Group. I recently completed my BSc Artificial Intelligence at the University of Groningen cum laude (8.4/10).
 
-I'm especially interested in agent harnesses, personal and business assistants, and reliable LLM systems. I also have industry ML experience from projects with [Gasunie](https://www.gasunie.nl/) and [descript](https://descript.de/).
+I'm especially interested in optimization, reinforcement learning, agents, and reliable LLM systems. I also have industry ML experience from projects with [Gasunie](https://www.gasunie.nl/) and [descript](https://descript.de/).
 
 ## Selected work
 
@@ -19,7 +19,7 @@ My [bachelor's thesis](https://github.com/richardharnisch/rl_double_descent/blob
 Worked in a five-person team on forecasting Dutch electricity prices for Gasunie, with a focus on evaluation, retraining, and distribution shift rather than only in-sample model performance.
 
 <details>
-<summary><strong>More things I've built</strong></summary>
+<summary><strong>More things I've built in my free time</strong></summary>
 
 - [Clark Bott](https://github.com/Clark-Bott): my personal Hermes agent for managing tasks, coordinating my schedule, and running recurring briefing and research jobs.
 - [Neural network from scratch](https://github.com/richardharnisch/traffic-sign-classification): a CNN implemented with NumPy and tested on [GTSRB](https://benchmark.ini.rub.de/gtsrb_about.html).
@@ -34,6 +34,6 @@ Worked in a five-person team on forecasting Dutch electricity prices for Gasunie
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/richardharnisch/) · [CV](https://github.com/richardharnisch/public-cv/blob/master/public.pdf) · `richitdd` at Gmail
+[LinkedIn](https://www.linkedin.com/in/richardharnisch/) · [CV](https://github.com/richardharnisch/public-cv/blob/master/public.pdf) · `ric.harnisch` at Gmail
 
 I'm always excited to hear from ambitious people and about hard technical problems and opportunities to do good.
