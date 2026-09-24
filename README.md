@@ -21,6 +21,8 @@ Worked in a five-person team on forecasting Dutch electricity prices for Gasunie
 <details>
 <summary><strong>More things I've built in my free time</strong></summary>
 
+- [Codex Usage](https://github.com/richardharnisch/codex-usage-indicator): A GNOME extension that can show you your codex plan's usage limits in your linux status bar live.
+- [ChatJEV](https://chatjev-gules.vercel.app/): a "chatbot" (not really) that works by allowing TypeSafeAI's Jev to pick from a list of words. no account & free, try it!
 - [Clark Bott](https://github.com/Clark-Bott): my personal Hermes agent for managing tasks, coordinating my schedule, and running recurring briefing and research jobs.
 - [Neural network from scratch](https://github.com/richardharnisch/traffic-sign-classification): a CNN implemented with NumPy and tested on [GTSRB](https://benchmark.ini.rub.de/gtsrb_about.html).
 - [PDF Prompt Injector](https://github.com/richardharnisch/pdf-prompt-injector): a small demonstration of invisible-text prompt injection in PDF documents.
