@@ -1,6 +1,6 @@
 # Hi, I'm Richard 👋
 
-I'm an AI researcher and builder based in Amsterdam. In September 2026, I'll start the MSc Artificial Intelligence and a research assistant position at the University of Amsterdam, where I'll work with Dr. Shashikant Ilager on energy-efficient AI data-center design in the Multiscale Networked Systems Group. I recently completed my BSc Artificial Intelligence at the University of Groningen cum laude (8.4/10).
+I'm an AI researcher and builder based in Amsterdam. I'm in the MSc Artificial Intelligence and a research assistant at the University of Amsterdam, where I work with Dr. Shashikant Ilager on energy-efficient AI data-center design in the Multiscale Networked Systems Group. I recently completed my BSc Artificial Intelligence at the University of Groningen cum laude (8.4/10).
 
 I'm especially interested in optimization, reinforcement learning, agents, and reliable LLM systems. I also have industry ML experience from projects with [Gasunie](https://www.gasunie.nl/) and [descript](https://descript.de/).
 
