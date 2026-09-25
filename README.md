@@ -19,7 +19,7 @@ My [bachelor's thesis](https://github.com/richardharnisch/rl_double_descent/blob
 Worked in a five-person team on forecasting Dutch electricity prices for Gasunie, with a focus on evaluation, retraining, and distribution shift rather than only in-sample model performance.
 
 <details>
-<summary><strong>More things I've built in my free time</strong></summary>
+<summary><strong>⏬ More things I've built ⏬</strong></summary>
 
 - [Codex Usage](https://github.com/richardharnisch/codex-usage-indicator): A GNOME extension that can show you your codex plan's usage limits in your linux status bar live.
 - [ChatJEV](https://chatjev-gules.vercel.app/): a "chatbot" (not really) that works by allowing TypeSafeAI's Jev to pick from a list of words. no account & free, try it!
