@@ -31,6 +31,7 @@ Worked in a five-person team on forecasting Dutch electricity prices for Gasunie
 - [Numista API interface](https://github.com/richardharnisch/numista-api): a tool I built for my dad to estimate the value of a numismatic collection.
 - [TeX workshop](https://github.com/richardharnisch/tex-workshop-chemistry): materials for a workshop I gave to chemistry students preparing to write their bachelor's theses.
 - Programming puzzles: [Advent of Code](https://github.com/richardharnisch/advent-of-code) and [Crash & Compile](https://github.com/richardharnisch/crash-and-compile), where I placed third overall and second in coding at Cover's event.
+- A [LinkedIn Banner](https://github.com/richardharnisch/linkedin-banner) that displays an expression for a function that, when plotted, draws the skyline of my home town Dresden.
 
 </details>
 
