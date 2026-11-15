@@ -1,12 +1,12 @@
 # Hi, I'm Richard 👋
 
-I'm an AI founder and researcher based in Amsterdam. I'm in the MSc Artificial Intelligence and a research assistant at the University of Amsterdam, where I work with Dr. Shashikant Ilager on energy-efficient AI data-center design in the Multiscale Networked Systems Group. I also founded [Derylus](derylus.com).
+I'm an AI founder and researcher based in Amsterdam. I'm in the MSc Artificial Intelligence and a research assistant at the University of Amsterdam, where I work with Dr. Shashikant Ilager on energy-efficient AI data-center design in the Multiscale Networked Systems Group. I also founded [Derylus](https://derylus.com).
 
 I'm especially interested in optimization, reinforcement learning, agents, and reliable LLM systems. I also have industry ML experience from projects with [Gasunie](https://www.gasunie.nl/) and [descript](https://descript.de/).
 
 ## Selected work
 
-### 🥇 [Derylus](derylus.com): Up to 4x speedup on edge model inference
+### 🥇 [Derylus](https://derylus.com): Up to 4x speedup on edge model inference
 
 First place at the Tulip MVP Sprint and now its own startup. We make your model run up up to 4x faster on your silicon by using ChipHappens, our agentic loop-based optimizer. Code is not public, unfortunately. If you or anyone you know is deploying any models on edge hardware, please reach out to [founders@derylus.com](mailto:founders@derylus.com)!
 
