@@ -14,7 +14,11 @@ First place at the Tulip MVP Sprint and now its own startup. We make your model 
 
 First place at the Digilize AI Hackathon 2026. The system learns a visual style from existing presentations, then generates new, fully editable PowerPoint decks and supporting materials. My work covered the prompts, agent architecture, product framing, demo, and pitch.
 
-### [Internship at Gasunie](https://github.com/kodeInInk/PriceForecasting-GasuniexRUG): Day-ahead electricity price forecasting
+### 🔬 [UvA Research Assistant](https://github.com/Large-scale-Sustainable-Computing-LSC): Data Center Efficiency
+
+Working as a part-time Research Assistant at the University of Amsterdam on efficient data center job schedulers that leverage electricity price forecasts to make deadline-aware work schedules while minimizing electricity cost and carbon intensity. Targeting publication at ACM e-Energy 2027.
+
+### 👷 [Internship at Gasunie](https://github.com/kodeInInk/PriceForecasting-GasuniexRUG): Day-ahead electricity price forecasting
 
 Worked in a five-person team on forecasting Dutch electricity prices for Gasunie, with a focus on evaluation, retraining, and distribution shift rather than only in-sample model performance.
 
