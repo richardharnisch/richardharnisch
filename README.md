@@ -10,13 +10,13 @@ I'm especially interested in optimization, reinforcement learning, agents, and r
 
 First place at the Tulip MVP Sprint and now its own startup. We make your model run up up to 4x faster on your silicon by using ChipHappens, our agentic loop-based optimizer. Code is not public, unfortunately. If you or anyone you know is deploying any models on edge hardware, please reach out to [founders@derylus.com](mailto:founders@derylus.com)!
 
-### 🥇 [Maverx Style Buddy](https://github.com/richardharnisch/maverx-style-buddy): agentic slide generation
-
-First place at the Digilize AI Hackathon 2026. The system learns a visual style from existing presentations, then generates new, fully editable PowerPoint decks and supporting materials. My work covered the prompts, agent architecture, product framing, demo, and pitch.
-
 ### 🔬 [UvA Research Assistant](https://github.com/Large-scale-Sustainable-Computing-LSC): Data Center Efficiency
 
 Working as a part-time Research Assistant at the University of Amsterdam on efficient data center job schedulers that leverage electricity price forecasts to make deadline-aware work schedules while minimizing electricity cost and carbon intensity. Targeting publication at ACM e-Energy 2027.
+
+### 🥇 [Maverx Style Buddy](https://github.com/richardharnisch/maverx-style-buddy): Agentic Slide Styling
+
+First place at the Digilize AI Hackathon 2026. The system learns a visual style from existing presentations, then generates new, fully editable PowerPoint decks and supporting materials. My work covered the prompts, agent architecture, product framing, demo, and pitch.
 
 ### 👷 [Internship at Gasunie](https://github.com/kodeInInk/PriceForecasting-GasuniexRUG): Day-ahead electricity price forecasting
 
